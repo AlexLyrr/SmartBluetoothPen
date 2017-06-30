@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\BlunoBasicDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Alex\\.android\\build-cache\\5feff1fcb2bee684869aa9a21310fa24ecca8eec\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
